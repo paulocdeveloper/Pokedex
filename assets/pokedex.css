@@ -141,7 +141,7 @@
     margin: .25rem 0;
     font-size: .625rem;
     color: #fff;
-    background-color: #6c79db;
+    background-color: #c41c1c;
     border: none;
     border-radius: 1rem;
 }
@@ -163,3 +163,23 @@
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
 }
+
+header{
+    text-align: center;
+    padding: 40px 0 40px 0;
+}
+
+.content-header {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pokedex{
+    width: 250px;
+}
+
+.ashe {
+    width: 60px;
+}
+
